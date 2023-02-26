@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+main {
+    margin: .5rem;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+
+}
+
+header {
+    background-color: rosybrown;
+    color: white;
+    padding: 1rem;
+}
+
+header h1 {
+    font-size: xx-large;
+    margin: 0
+}

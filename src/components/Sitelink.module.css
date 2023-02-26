@@ -1,0 +1,15 @@
+.sitelink {
+    border: 3px double rosybrown;
+    border-radius: 5px;
+    padding: .5rem 1rem;
+    width: fit-content;
+    font-size: medium;
+    color: rosybrown;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sitelink:hover {
+    background-color: rosybrown;
+    color: white;
+}

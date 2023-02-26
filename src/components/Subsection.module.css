@@ -1,0 +1,15 @@
+.subsection {
+    border: 3px double rosybrown;
+    border-radius: 5px;
+    padding:1rem;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+.subsection > * {
+    margin: 0rem;
+}
+.subsection h3 { 
+    color: rosybrown;
+    font-size: larger;
+}
